@@ -36,3 +36,15 @@ Also relating:
     computational demands
     convergence rate
     # of mistakes during learning
+
+
+Social Impacts of Machine Learning
+    better evidence-based decision making in many domains
+        medical diagnosis
+        cc fraud detection
+        online tutoring
+        failure rate on devices
+    controversial uses
+        jail sentencing
+        targeted marketing
+        
