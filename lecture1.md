@@ -61,4 +61,92 @@ Privacy enhanced machine learning
         add noise to data D or algorithm A, so that an observer of A's output probably
         cannot determine whether data enty D was even included in D
         Trades privacy for accuracy
+
+This course will cover:
+    Algorithms:
+        Decision trees
+        Bayes classifiers
+        Regression
+        Deep neural networks
+        Convolutional nets
+        Transformer networks
+        Graphical models
+        Expectation maximization
+        PCA, Matrix factorization
+        Reinforcement learning
     
+    Concepts:
+        Statistical estimation
+        Overfitting
+        Cross-validation
+        Representation learning
+        Probalistic models
+        Proabably approximately correct learning
+        VC dimension
+        Role of unlabeled data
+        Transfer learning
+        Optimization
+
+Machine Learning
+    Statistics
+        Probability
+            Computer Science
+                Optimization
+
+Well Posed Learning Problems
+    Three components: <T,P,E>
+    Task, Performance measure, Experience
+
+    Definition of learning:
+        *a computer program learns if its performance in T improves with experience*
+    
+    Example tasks:
+        identify objects in an image
+        translate languages
+        recognize speech
+        assess risk in loan application
+        make decisions
+        assess potential
+
+Recommended reading
+    http://mlcourse.org/
+    Machine Learning - TOm 
+    Pattern Recognition - Christopher M Bishop
+    Machine Learning - Kevin P Murphy
+    The elements of statistical learning - springer, trevor hastle
+
+Homework
+    3 written assignments
+    6 written + coding
+
+
+Prerequisites
+    Significant coding experience
+    Probability and statistics
+    Mathematical maturity
+    Discrete mathematics
+    Linear algebra
+    Calculus
+
+Supervised Classification
+    Naive Bayes
+    p(y|x1,x2,...,xn)=1Zp(y)n
+
+    Logistic regression
+
+ML Theory
+    Sample complexity
+
+Deep Learning
+    Deep bi-directional RNN
+
+Graphical Models
+    Hidden Markov Model
+    Conditional Random Field
+
+Learning Objectives
+    1.Formulate a well-posed learning problem for a real-world task by identifying the task, performance measure, and training experience
+    2.Describe common learning paradigms in terms of the type of data available, when it’s available, the form of prediction, and the structure of the output prediction
+    3.Implement Decision Tree training and prediction (w/simple scoring function)
+    4.Explain the difference between memorization and generalization [CIML]
+    5.Identify examples of the ethical responsibilities of an ML expert
